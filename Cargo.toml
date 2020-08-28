@@ -1,9 +1,21 @@
 [package]
+
 name = "oxiunify"
+
 version = "0.1.0"
+
 authors = ["oxiunify <66804416+oxiunify@users.noreply.github.com>"]
+
 edition = "2018"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "Fullstack Rust guidelines pursuing the safety of Rust, the minimalism of Go, the performance of C++, and the utility of JavaScript and Python. Not production-ready yet. 100% CC0-licensed ("public domain"), no attribution required."
+
+readme = "Fullstack Rust guidelines pursuing the safety of Rust, the minimalism of Go, the performance of C++, and the utility of JavaScript and Python. Not production-ready yet. 100% CC0-licensed ("public domain"), no attribution required."
+
+homepage = "https://github.com/oxiunify/oxiunify"
+
+repository = "https://github.com/oxiunify/oxiunify"
+
+license = "CC0-1.0"
 
 [dependencies]
